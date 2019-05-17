@@ -1,1 +1,2 @@
-Async-React Project
+Async-React Project:
+Simple Futurama Quotes App
